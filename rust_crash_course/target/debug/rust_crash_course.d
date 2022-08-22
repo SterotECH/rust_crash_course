@@ -1,0 +1,1 @@
+/media/stero/files/Workspace/rust/tutorial/rust_crash_course/rust_crash_course/target/debug/rust_crash_course: /media/stero/files/Workspace/rust/tutorial/rust_crash_course/rust_crash_course/src/main.rs
